@@ -1,0 +1,18 @@
+.center-box {
+    display:flexbox;
+    background: darkblue;
+    width:700px;
+    height: 200px;
+    padding: 10px;
+    margin:0;
+}
+.center-item{
+    display:flex;
+    background:beige;
+    width:50px;
+    height:50px;
+    padding:10px;
+    margin:auto;
+    margin-top: 60px;
+    align-items: center;
+}
